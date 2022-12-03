@@ -1,0 +1,10 @@
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\bin\Debug\netcoreapp2.1\sayıAyirmaElifDemir.deps.json
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\bin\Debug\netcoreapp2.1\sayıAyirmaElifDemir.runtimeconfig.json
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\bin\Debug\netcoreapp2.1\sayıAyirmaElifDemir.runtimeconfig.dev.json
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\bin\Debug\netcoreapp2.1\sayıAyirmaElifDemir.dll
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\bin\Debug\netcoreapp2.1\sayıAyirmaElifDemir.pdb
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\obj\Debug\netcoreapp2.1\sayıAyirmaElifDemir.csproj.CoreCompileInputs.cache
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\obj\Debug\netcoreapp2.1\sayıAyirmaElifDemir.AssemblyInfoInputs.cache
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\obj\Debug\netcoreapp2.1\sayıAyirmaElifDemir.AssemblyInfo.cs
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\obj\Debug\netcoreapp2.1\sayıAyirmaElifDemir.dll
+C:\Users\dbdb4\source\repos\sayıAyirmaElifDemir\sayıAyirmaElifDemir\obj\Debug\netcoreapp2.1\sayıAyirmaElifDemir.pdb
